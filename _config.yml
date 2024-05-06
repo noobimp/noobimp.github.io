@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoyu Liu"
   avatar           : "images/OIP.jpg"
-  bio              : "[Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/)"
+  bio              : "Institute of Computing Technology(ICT), Chinese Academy of Sciences(CAS)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
