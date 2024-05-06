@@ -26,14 +26,13 @@ I’m currently a master candidate at Data Intelligence System Research Center i
 
 My research interest includes neural language processing and information retrieval. 
 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<!-- 🔮I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-<!--
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
 
 # 📝 Publications 
 
@@ -56,11 +55,25 @@ My research interest includes neural language processing and information retriev
 - *2020-2021* National Scholarship*2 (**Top 1%**)
 - *2019.10* The First Prize Scholarship (**Top 4%**)
 
+  
 # 📖 Educations
-- *2022.09 - 2025.06 (expected)*,  Master candidate, ICT, CAS & UCAS.
+- *2022.09 - 2025.06 (expected)*,  Master candidate, [ICT](http://www.ict.ac.cn/), [CAS](http://www.cas.ac.cn/) & [UCAS](https://www.ucas.ac.cn/).
 - *2018.09 - 2022.06*, Bachelor of Engineering in Information Science and technology, China University of Mining and Technology.
 
 
 
-# 💻 Internships
+# 🖥️ Internships
 - *2021.10 - 2022.04*, MLE intern at [ByteDance](https://www.bytedance.com/zh/), China, participating in improving the performance of recommendation algorithms in TikTok.
+
+
+# ✨ Services
+- Reviewer: ACL, ARR, ICASSP
+
+# 🪄 Teaching
+- I was a teaching assistant of the undergraduate course Advanced Programming Languages.
+
+# 🎨 hobbies
+- 📸 Photography
+- 🖌️ Calligraphy (Chinese and English, writing brush and pen)
+- ⚽ Football, Badminton and so on
+
