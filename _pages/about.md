@@ -16,10 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<!-- <span class='anchor' id='about-me'></span> -->
-
-
-
+<span class='anchor' id='about-me'></span>
 # 💻 About Me
 
 I’m currently a master candidate at Data Intelligence System Research Center in [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/).
