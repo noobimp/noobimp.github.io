@@ -58,7 +58,7 @@ My research interest includes neural language processing and information retriev
 - *2018.09 - 2022.06*, Bachelor of Engineering in Information Science and technology, China University of Mining and Technology.
 
 
-
+<span class='anchor' id='internships'></span>
 # 🖥️ Internships
 - *2021.10 - 2022.04*, MLE intern at [ByteDance](https://www.bytedance.com/zh/), China, participating in improving the performance of recommendation algorithms in TikTok.
 
