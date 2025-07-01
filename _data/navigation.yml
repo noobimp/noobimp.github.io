@@ -3,24 +3,24 @@ main:
   - title: "About Me"
     url: "/#about-me"
     
-  - title: "News"
-    url: "/#-news"
+  - title: "New"
+    url: "/#-new"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Publication"
+    url: "/#-publication"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Work Experience"
+    url: "/#-work-experience"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
     
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Honor and Award"
+    url: "/#-honor-and-award"
     
-  - title: "Services"
-    url: "/#-services"
+  - title: "Service"
+    url: "/#-service"
 
-  - title: "Hobbies"
-    url: "/#-hobbies"
+  - title: "Hobby"
+    url: "/#-hobby"
   
