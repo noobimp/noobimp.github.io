@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoyu Liu"
   avatar           : "images/OIP.jpg"
-  bio              : "Institute of Computing Technology(ICT), Chinese Academy of Sciences(CAS)"
+  bio              : "Pragmatic Romantics"
   location         : "Beijing, China"
-  employer         :
+  employer         : "WeChat AI, Tencent"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=ochBFHAAAAAJ"
   email            : "implhy@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/noobimp" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
