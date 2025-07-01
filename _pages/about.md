@@ -60,7 +60,8 @@ My research interest includes neural language processing and information retriev
 - *2022.09 - 2025.06*, Master of Engineering in Computer Science and Technology, [ICT](http://www.ict.ac.cn/), [CAS](http://www.cas.ac.cn/) & [UCAS](https://www.ucas.ac.cn/).
 - *2018.09 - 2022.06*, Bachelor of Engineering in Information Science and Technology, China University of Mining and Technology.
 
-# 🖥️ Internships
+# 🖥️ Work Experience
+- *2025.03 - Now*, Algorithm Engineer at [Tencent](https://www.tencent.com/), Beijing, China, foundation large language model.
 - *2023.10 - 2025.01*, Research intern at [Microsoft](https://www.microsoft.com/), Beijing, China, focusing on LLM application.
 - *2021.10 - 2022.04*, MLE intern at [ByteDance](https://www.bytedance.com/), Beijing, China, participating in improving the performance of recommendation algorithms in TikTok.
 
