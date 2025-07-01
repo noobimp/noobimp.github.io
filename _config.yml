@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoyu Liu"
-description              : "none"
+description              : "Pragmatic Romantics"
 repository               : "noobimp/noobimp.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoyu Liu"
   avatar           : "images/OIP.jpg"
-  bio              : "Pragmatic Romantics"
+  bio              : 
   location         : "Beijing, China"
   employer         : "WeChat AI, Tencent"
   pubmed           : 
