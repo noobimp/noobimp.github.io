@@ -51,6 +51,7 @@ My research interest includes neural language processing and information retriev
 - [Se2: Sequential Example Selection for In-Context Learning](https://arxiv.org/abs/2402.13874), **ACL 2024**
 - [Disentangled Graph Representation with Contrastive Learning for Rumor Detection](https://ieeexplore.ieee.org/abstract/document/10446729), **ICASSP 2024**
 
+<span class='anchor' id='work-experience'></span>
 # 🖥️ Work Experience
 - *2025.03 - Now*, Algorithm Engineer at [Tencent](https://www.tencent.com/), Beijing, China, foundation large language model.
 - *2023.10 - 2025.01*, Research intern at [Microsoft](https://www.microsoft.com/), Beijing, China, focusing on LLM application.
